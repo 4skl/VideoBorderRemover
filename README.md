@@ -7,4 +7,4 @@ use `python removeBorders.py in.mp4 -o output.mp4` to generate the test output.m
 
 you can see all option by using `python removeBorders.py --help`
 
-Still under devlopment
+Still under development 
